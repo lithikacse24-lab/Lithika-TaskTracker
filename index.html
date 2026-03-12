@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Task Progress Tracker</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<button id="modeBtn" onclick="toggleMode()">🌙 Dark Mode</button>
+
+<div class="tracker-box">
+<h2>Task Progress Tracker</h2>
+
+<input type="text" id="taskInput" placeholder="Enter task">
+<button onclick="addTask()">Add Task</button>
+
+<ul id="taskList"></ul>
+
+<div class="progress-container">
+<div id="progressBar"></div>
+</div>
+<p id="progressText">0% completed</p>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
