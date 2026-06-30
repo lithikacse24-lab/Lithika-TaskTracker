@@ -1,6 +1,7 @@
 # 📝 Task Tracker Web App
 
-A simple and interactive **Task Tracker Web App** that helps you organize and manage your daily tasks efficiently. This project demonstrates my front-end development skills by building a clean, responsive, and user-friendly application using **HTML, CSS, and JavaScript**.
+- A simple and interactive **Task Tracker Web App** that helps you organize and manage your daily tasks efficiently.
+- This project demonstrates my front-end development skills by building a clean, responsive, and user-friendly application using **HTML, CSS, and JavaScript**.
 
 ## 🌐 Live Demo
 🔗 **Try the app here:** https://lithikacse24-lab.github.io/Lithika-TaskTracker/
